@@ -22,4 +22,4 @@ for numerofila in range(len(asientos)):
         print(asientos[numerofila][numerocolumna], end=" ")
     print("") # Salto de línea
     # Fin del programa
-1
+
